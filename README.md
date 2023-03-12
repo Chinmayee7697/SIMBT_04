@@ -1,9 +1,11 @@
 # SIMBT_04
 
 LV-1
-WEATHER APP
+
 
 TASK #04
+
+WEATHER APP
 
 Choose a weather API to use, such as OpenWeatherMap or WeatherAPI.
 
