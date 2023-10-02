@@ -26,3 +26,6 @@ Add an option for users to switch between Celsius and Fahrenheit.
 Make the design visually appealing and responsive, working well on different devices and screen sizes.
 
 Test the app by inputting different locations and verifying that the weather data is accurate and up-to-date.
+
+
+Website is live on [https://chinmayee7697.github.io/SIMBT_04/](https://chinmayee7697.github.io/SIMBT_04/)
